@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Project Kaiju-Alpha",
+      "category": "Web Application",
+      "description": "A full-stack web application developed to monitor and track Kaiju activity."
+    },
+    {
+      "id": 2,
+      "title": "Project Jaeger-Net",
+      "category": "Machine Learning",
+      "description": "A neural network for predicting Kaiju emergence points with 95% accuracy."
+    },
+    {
+      "id": 3,
+      "title": "Project Deep-Drift",
+      "category": "Data Visualization",
+      "description": "An interactive 3D visualization of the Anteverse breach."
+    }
+  ],
+  "about": {
+    "missionHistory": [
+      {
+        "title": "Lead Pilot, Jaeger Program",
+        "date": "2022 - Present",
+        "description": "Pioneered development of next-generation frontend architectures for the Pan Pacific Defense Corps. Specialized in high-performance React applications and 3D web experiences."
+      },
+      {
+        "title": "Co-Pilot, Mark-V Jaeger Division",
+        "date": "2019 - 2022",
+        "description": "Contributed to the development and maintenance of internal tooling and mission-critical dashboards."
+      }
+    ],
+    "trainingLog": [
+      {
+        "label": "Degree",
+        "value": "M.S. in Computer Graphics and Simulation"
+      },
+      {
+        "label": "Certifications",
+        "value": "Certified Babylon.js & GSAP Specialist"
+      }
+    ]
+  }
+}
